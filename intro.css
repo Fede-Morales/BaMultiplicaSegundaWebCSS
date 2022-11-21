@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body{
+    background-color:cornflowerblue
+}
+
+.btn{
+    padding: 15px 30px 15px 30px;
+    margin-top: 40%;
+    margin-right: 50%;
+    background: blue;
+    border-radius: 30px;
+    color: whitesmoke;
+}
+
+.espacio{
+    margin-top: 20px;
+    margin-left: 50%;
+}
+
+.form{
+   margin-left: 30px; 
+   background-color: azure;
+   padding-left: 10px;
+   width: 15%;
+}
+
+a{
+    text-decoration: none;
+}
